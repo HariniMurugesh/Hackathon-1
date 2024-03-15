@@ -46,10 +46,14 @@ Incorporate more advanced machine learning techniques.
 Fine-tune pre-trained models for better performance.
 Implement real-time cheque processing capabilities.
 Enhance user interface for easier interaction.
+
 Contributors
+
 [M.Harini]
 [K.Mohan Raj]
 [S.Madumitha]
+
 License
+
 This project is licensed under the MIT License.
 
