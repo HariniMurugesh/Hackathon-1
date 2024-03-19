@@ -51,9 +51,7 @@ Contributors
 
 [M.Harini]
 
-[K.Mohan Raj]
 
-[S.Madumitha]
 
 
 License
